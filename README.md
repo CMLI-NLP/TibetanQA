@@ -12,6 +12,11 @@ We invited the native Tibetan students to construct data sets using a program de
 
 ![type_ques](https://github.com/user-attachments/assets/dda61f27-92d0-438b-8e25-c61a1aaa0b80)![type_answer](https://github.com/user-attachments/assets/fc6e52d4-eef3-4b41-b9da-b6a6affe9cf8)
 
+## Name of the published paper
+<large>**面向机器阅读理解的高质量藏语数据集构建(Construction of High-quality Tibetan Dataset for Machine Reading Comprehension)** </large> \
+<large> **link:** https://aclanthology.org/2021.ccl-1.20/ \
+**cite:** Yuan Sun, Sisi Liu, Chaofan Chen, Zhengcuo Dan, and Xiaobing Zhao. 2021. 面向机器阅读理解的高质量藏语数据集构建(Construction of High-quality Tibetan Dataset for Machine Reading Comprehension). In Proceedings of the 20th Chinese National Conference on Computational Linguistics, pages 208–218, Huhhot, China. Chinese Information Processing Society of China. </large>
+
 ## Data Demo
 ### The Question Answering Dataset
 
