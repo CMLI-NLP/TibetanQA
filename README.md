@@ -38,6 +38,9 @@ Link: https://aclanthology.org/2021.ccl-1.20/
 
 Cite (ACL): Yuan Sun, Sisi Liu, Chaofan Chen, Zhengcuo Dan, and Xiaobing Zhao. 2021. 面向机器阅读理解的高质量藏语数据集构建(Construction of High-quality Tibetan Dataset for Machine Reading Comprehension). In Proceedings of the 20th Chinese National Conference on Computational Linguistics, pages 208–218, Huhhot, China. Chinese Information Processing Society of China.
 
+Cite (Informal): 面向机器阅读理解的高质量藏语数据集构建(Construction of High-quality Tibetan Dataset for Machine Reading Comprehension) (Sun et al., CCL 2021)
+
+BibTeX:
 ```
 @inproceedings{sun-etal-2021-mian,
     title = "面向机器阅读理解的高质量藏语数据集构建(Construction of High-quality {T}ibetan Dataset for Machine Reading Comprehension)",
