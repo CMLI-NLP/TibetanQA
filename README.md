@@ -68,3 +68,7 @@ BibTeX:
     language = "Chinese",
 }
 ```
+
+## Disclaimer
+
+This dataset/model is for academic research purposes only. Prohibited for any commercial or unethical purposes.
